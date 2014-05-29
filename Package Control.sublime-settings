@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CTags",
+		"Edit Preferences",
+		"GoSublime",
+		"Jade",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"LiveReload",
+		"MacTerminal",
+		"MarkdownEditing",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"tern_for_sublime"
+	]
+}

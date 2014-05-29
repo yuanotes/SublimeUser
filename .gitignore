@@ -1,0 +1,9 @@
+*.cache
+Package\ Control.last-run
+GoSublime/linux-x64
+GoSublime/osx-x64
+GoSublime/9
+Package Control.system-ca-bundle
+Package Control.ca-list
+Package Control.ca-bundle
+GoSublime-aux.sublime-settings
