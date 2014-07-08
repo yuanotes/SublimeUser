@@ -10,14 +10,15 @@
 			"selector": "source.js"
 		}
 	],
-	"color_scheme": "Packages/User/JavaScriptNext (SL).tmTheme",
+	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
 	"font_size": 16,
 	"ignored_packages":
 	[
-		"MacTerminal",
+		"SublimeHaskell",
 		"Markdown",
-		"SublimeLinter-jshint",
-		"GoSublime"
+		"Vintage",
+		"JavaScript"
 	],
+	"original_color_scheme": "Packages/User/Monokai (Colorcode) (SL).tmTheme",
 	"tern_argument_hints": true
 }

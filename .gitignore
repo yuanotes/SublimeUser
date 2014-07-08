@@ -7,3 +7,5 @@ Package Control.system-ca-bundle
 Package Control.ca-list
 Package Control.ca-bundle
 GoSublime-aux.sublime-settings
+SublimeHaskell.sublime-settings
+GoSublime.sublime-settings
